@@ -16,6 +16,12 @@
             android:name=".ExibeFruta"
             android:exported="false" />
         <activity
+            android:name=".AdapterListView"
+            android:exported="false" />
+        <activity
+            android:name=".ExibeFruta"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
